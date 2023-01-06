@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "289604ec83650e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-01-06.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-03.md",
+                "file": "2023-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-03.md",
+                "file": "2023-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-03.md"
+                "file": "2023-01-06.md"
               }
             }
           }
@@ -195,16 +207,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "269fd1b2dafd4abf",
+  "active": "289604ec83650e31",
   "lastOpenFiles": [
-    "무제파일.md",
-    "2022-11-05 (웹프).md",
-    "2023-01-06.md",
-    "2023-01-04.md",
     "Templates/monthly-plan.md",
+    "Templates/code.md",
+    "2023-01-06.md",
+    "2023-01-03.md",
     "Templates/yearly-plan.md",
     "Templates/today-list.md",
-    "2023-01-03.md",
+    "무제파일.md",
+    "2022-11-05 (웹프).md",
+    "2023-01-04.md",
     "2023-01-02.md"
   ]
 }
