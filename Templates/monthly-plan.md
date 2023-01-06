@@ -1,0 +1,21 @@
+
+
+----
+
+<div align='center'>
+# 월간계획 #
+</div>
+
+|<span style="color:#b28ecc">연간계획</span>|<span style="color:#b28ecc">01월</span>|<span style="color:#b28ecc">02월</span>|<span style="color:#b28ecc">03월</span>|<span style="color:#b28ecc">04월</span>|<span style="color:#b28ecc">05월</span>|<span style="color:#b28ecc">06월</span>|<span style="color:#b28ecc">07월</span>|<span style="color:#b28ecc">08월</span>|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<span style="color:#b28ecc">1.</span>| 졸업작품 | 졸업작품 | 졸업작품 | 졸업작품 | 졸업작품 | 논문 | 논문 | 논문 |
+|<span style="color:#b28ecc">2.</span>|  |  | CS | CS | CS | CS |
+|<span style="color:#b28ecc">3.</span>| 알고리즘 - 정렬까지 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 |
+
+|<span style="color:#b28ecc">연간계획</span>|<span style="color:#b28ecc">09월</span>|<span style="color:#b28ecc">10월</span>|<span style="color:#b28ecc">11월</span>|<span style="color:#b28ecc">12월</span>|<span style="color:#b28ecc">01월</span>|<span style="color:#b28ecc">02월</span>|<span style="color:#b28ecc">03월</span>|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<span style="color:#b28ecc">1.</span>| 인턴/수업 | 인턴/수업 | 인턴/수업 | 취업준비 | 취업준비 | 취업준비 | 취업 |
+|<span style="color:#b28ecc">2.</span>|  |  |  | 인턴/수업 | 인턴/사이드 | 인턴/사이드 |  |
+|<span style="color:#b28ecc">3.</span>| 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 | 알고리즘 |
+
+----
