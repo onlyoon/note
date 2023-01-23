@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-19.md",
+                "file": "2023-01-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#이벤트리스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-19.md",
+                "file": "2023-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-19.md",
+                "file": "2023-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-19.md"
+                "file": "2023-01-20.md"
               }
             }
           },
@@ -168,14 +169,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "044c8b69f0e8864c",
+  "active": "f1e9ab22f3355be8",
   "lastOpenFiles": [
-    "2023-01-20.md",
     "2023-01-19.md",
+    "2023-01-16.md",
+    "2023-01-20.md",
     "Templates/algorithm.md",
     "2023-01-12.md",
     "2023-01-14.md",
-    "2023-01-16.md",
     "Templates/yearly-plan.md",
     "Templates/today-what-i-did.md",
     "2023-01-11.md",
