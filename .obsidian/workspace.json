@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "775f8141a5f7552e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "044c8b69f0e8864c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2023-01-26.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,6 +157,8 @@
   },
   "active": "044c8b69f0e8864c",
   "lastOpenFiles": [
+    "2023-01-19.md",
+    "2023-01-26.md",
     "2023-01-12.md",
     "2023-01-08.md",
     "2023-01-09.md",
@@ -177,8 +166,6 @@
     "2023-01-11.md",
     "2023-01-14.md",
     "2023-01-16.md",
-    "2023-01-19.md",
-    "2023-01-20.md",
-    "2023-01-23.md"
+    "2023-01-20.md"
   ]
 }
