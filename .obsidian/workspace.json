@@ -14,7 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "2023-01-26.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a524f4d3eaf20a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/대학교 졸업요건.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -157,15 +169,15 @@
   },
   "active": "044c8b69f0e8864c",
   "lastOpenFiles": [
-    "2023-01-19.md",
+    "2023/대학교 졸업요건.md",
     "2023-01-26.md",
-    "2023-01-12.md",
-    "2023-01-08.md",
-    "2023-01-09.md",
-    "2023-01-10.md",
-    "2023-01-11.md",
-    "2023-01-14.md",
-    "2023-01-16.md",
+    "Pasted image 20230112170445.png",
+    "nangnang_paymentprocess_workflow.jpg",
+    "2023/2023-01 주간계획.md",
+    "2023/2023 월간 계획.md",
+    "2023/2023 연간 계획.md",
+    "2023/2023 계획.md",
+    "2023-01-02.md",
     "2023-01-20.md"
   ]
 }
