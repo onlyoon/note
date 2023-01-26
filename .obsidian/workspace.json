@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-24.md",
-                "mode": "source",
+                "file": "2023-01-25.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-24.md",
+                "file": "2023-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-24.md",
+                "file": "2023-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-24.md"
+                "file": "2023-01-25.md"
               }
             }
           },
@@ -171,15 +170,15 @@
   },
   "active": "044c8b69f0e8864c",
   "lastOpenFiles": [
+    "2023-W01.md",
+    "Templates/code.md",
+    "Templates/algorithm.md",
+    "2023-01-25.md",
+    "2023-01-24.md",
     "2023-01-23.md",
     "2023-01-20.md",
     "2023-01-19.md",
     "2023-01-16.md",
-    "Templates/algorithm.md",
-    "2023-01-12.md",
-    "2023-01-14.md",
-    "Templates/yearly-plan.md",
-    "Templates/today-what-i-did.md",
-    "2023-01-11.md"
+    "2023-01-12.md"
   ]
 }
