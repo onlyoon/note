@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-27.md",
+                "file": "2023-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/대학교 졸업요건.md",
+                "file": "2023-01-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-27.md",
+                "file": "2023-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-27.md",
+                "file": "2023-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-27.md"
+                "file": "2023-01-28.md"
               }
             }
           },
@@ -167,17 +168,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "044c8b69f0e8864c",
+  "active": "a524f4d3eaf20a8a",
   "lastOpenFiles": [
-    "2023-01-09.md",
-    "2023-01-27.md",
+    "2023-01-19.md",
+    "2023-01-20.md",
     "2023-01-26.md",
     "2023-01-25.md",
     "2023-01-24.md",
     "2023-01-23.md",
-    "2023-01-20.md",
-    "2023-01-19.md",
+    "2023-01-14.md",
+    "2023-01-10.md",
     "2023-01-16.md",
-    "2023-01-14.md"
+    "2023-01-28.md"
   ]
 }
