@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59967f30f3ff64fd",
+        "id": "4ed1cd632316002e",
         "type": "tabs",
         "children": [
           {
-            "id": "044c8b69f0e8864c",
+            "id": "2bef32e8c2c24415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a524f4d3eaf20a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-28.md",
+                "file": "2023/2023.01/2023.01-04W/2023-01-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-28.md",
+                "file": "2023/2023.01/2023.01-04W/2023-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-28.md",
+                "file": "2023/2023.01/2023.01-04W/2023-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-28.md"
+                "file": "2023/2023.01/2023.01-04W/2023-01-28.md"
               }
             }
           },
@@ -168,17 +155,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a524f4d3eaf20a8a",
+  "active": "2bef32e8c2c24415",
   "lastOpenFiles": [
-    "2023-01-19.md",
-    "2023-01-20.md",
-    "2023-01-26.md",
-    "2023-01-25.md",
-    "2023-01-24.md",
-    "2023-01-23.md",
-    "2023-01-14.md",
-    "2023-01-10.md",
-    "2023-01-16.md",
-    "2023-01-28.md"
+    "2023/2023.01/2023.01-04W/2023-01-27.md",
+    "2023/2023.01/2023.01-04W/2023-01-26.md",
+    "2023/2023.02/2023.02-01W/2023-02-01.md",
+    "Templates/algorithm.md",
+    "2023-02-01.md",
+    "2023/대학교 졸업요건.md",
+    "2023/2023-01 주간계획.md",
+    "2023/2023 월간 계획.md",
+    "2023/2023 계획.md",
+    "2023/2023 연간 계획.md"
   ]
 }
