@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "foldHeading": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 2,
+  "useMarkdownLinks": false
 }
